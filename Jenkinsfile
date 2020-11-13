@@ -18,7 +18,7 @@ pipeline {
     //the kubeconfig credential id you created in KubeSphere
     KUBECONFIG_CREDENTIAL_ID = 'github-go-kubeconfig'
     // the name of the project you created in KubeSphere, not the DevOps project name
-    PROJECT_NAME = 'demo-devops'
+    PROJECT_NAME = 'devops-proj'
   }
      
   stages {
